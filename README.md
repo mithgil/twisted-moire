@@ -30,3 +30,21 @@ can run the c binary repeatedly with odd number angle
 
 
 
+## Twisted Angle Figures
+
+
+| **$\theta=3^\circ$** | **$\theta=5^\circ$** |
+|---------------------|---------------------|
+| ![Figure 1](images/moire_3.0.png) | ![Figure 2](images/moire_5.0.png) |
+| **$\theta=7^\circ$** | **$\theta=9^\circ$** |
+| ![Figure 3](images/moire_7.0.png) | ![Figure 4](images/moire_9.0.png) |
+
+where `$\theta$` denotes the twisted angle
+
+More figures can be found in `/images` subdirectory
+
+
+## To-Dos
+
+- More Transition-metal dichalcogenide (TMD) materials of different lattice constants can be further implemented
+
