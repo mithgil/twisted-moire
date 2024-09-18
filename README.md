@@ -1,13 +1,16 @@
 # Twisted Moire Supperlattice 
 
 
-Simulating twisted MoS2 biayer with varied twisted angles. 
+
+Simulating twisted MoS2 biayer with varied twisted angles in Linux. 
+
 
 ## Dependency
 
-`matplotlibcpp` - to visualize moire superlattice 
-`eigen3` - to do matrix multiplation
+- `matplotlibcpp` - to visualize moire superlattice, please go to the [github repository](https://github.com/lava/matplotlib-cpp)
+- `eigen3` - to do matrix multiplation. Do install `libeigen3-dev`
 
+  
 ## To Use
 
 Just do 
